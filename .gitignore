@@ -4,4 +4,4 @@ __pycache__/
 .env
 airflow.db
 .venv/
-.env
+config/airflow.cfg
